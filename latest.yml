@@ -1,8 +1,8 @@
-version: 2.1.25
+version: 2.1.26
 files:
   - url: Streamplay-Games-Setup.exe
-    sha512: Sm0LEiBW685rXaMAhdJ1HD/NYR7UrGsfBX3UMhPzmR9HVQm8dhkSaqEqxRZvkMIXvMRPcPPsbXe+x3BfQNmU1Q==
-    size: 184098877
+    sha512: U4HIk/PRqO4KyyMcOay0VcOpJlNDhw9JO1KaCuVLu0g3Rhgbr8VM1WbdEGdLmoXRvXoJcDH0lX/41ZraL3/6ew==
+    size: 184090927
 path: Streamplay-Games-Setup.exe
-sha512: Sm0LEiBW685rXaMAhdJ1HD/NYR7UrGsfBX3UMhPzmR9HVQm8dhkSaqEqxRZvkMIXvMRPcPPsbXe+x3BfQNmU1Q==
-releaseDate: '2026-09-04T23:33:07.866Z'
+sha512: U4HIk/PRqO4KyyMcOay0VcOpJlNDhw9JO1KaCuVLu0g3Rhgbr8VM1WbdEGdLmoXRvXoJcDH0lX/41ZraL3/6ew==
+releaseDate: '2026-09-05T00:50:10.973Z'
